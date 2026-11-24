@@ -1,0 +1,25 @@
+{
+  "name": "dopagaki_baseball",
+  "version": "1.0.0",
+  "description": "オンラインの2人対戦野球ゲーム",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KosukeKomeya/dopagaki_baseball.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KosukeKomeya/dopagaki_baseball/issues"
+  },
+  "homepage": "https://github.com/KosukeKomeya/dopagaki_baseball#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "socket.io": "^4.8.4"
+  }
+}
